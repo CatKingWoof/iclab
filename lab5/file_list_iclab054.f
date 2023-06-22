@@ -1,0 +1,2 @@
+../04_MEM/BIG_MEM.v
+../04_MEM/NEW_MEM.v
